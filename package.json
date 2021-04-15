@@ -1,0 +1,26 @@
+{
+  "name": "margaritaLookup",
+  "version": "1.0.0",
+  "description": "Look up what you need for a margarita",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idominikbrame/margaritaLookup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idominikbrame/margaritaLookup/issues"
+  },
+  "homepage": "https://github.com/idominikbrame/margaritaLookup#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
